@@ -1,6 +1,5 @@
-# Cody A. Stevens
 
-**Senior HPC UNIX Systems Administrator** 
+## Contact Information
  
 (301) 514-1617 | stevca9@wfu.edu 
 
