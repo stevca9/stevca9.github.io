@@ -3,13 +3,14 @@
 ## Contact Information
 
 Email: stevca9@wfu.edu
+
 Phone: (301) 514-1617
 
 ---
 
 ## Work Experience 
 
-### HPC UNIX Systems Administrator
+### Senior HPC UNIX Systems Administrator
 
 **Wake Forest University, Information Systems** - August 2017 – Present 
 
@@ -53,8 +54,10 @@ Phone: (301) 514-1617
 
 ### Master of Science in Computer Science
 
-**Wake Forest University, Winston-Salem, NC**, December 2014  
+**Wake Forest University, Winston-Salem, NC**, December 2014 
+
 **Area of Specialization:** Parallel Computing 
+
 **Thesis:** "GPU Optimized Allosteric Communication Network Analyses of Molecular Dynamic Simulations" 
 
 ### Bachelor of Science in Computer Science
@@ -68,7 +71,9 @@ Phone: (301) 514-1617
 ### Research Assistant
 
 **Wake Forest University, Dept. of Computer Science** | Fall 2012 – Present 
+
 **Research Advisor:** Dr. Sam Cho 
+
 * Developed C code using the CUDA library to perform Graph Theory Analysis on NVIDIA Graphics Processing Units. 
 * Applied Graph Analysis to Molecular Dynamic Simulations of protein folding for E. coli Methionyl-tRNA synthetase (MetRS). 
 * Updated Molecular Dynamic Simulation code to the latest CUDA Library version. 
