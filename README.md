@@ -157,17 +157,14 @@ Publications and Presentations
 
 ## Grants, Awards, and Affiliations
 
-* **Grants:** Center for Molecular Communication and Signaling Research Grant (Fall 2013 - Spring 2014); Wake Forest University Graduate School Summer Research Grant (Summer 2013). 
+### Grants: 
+* Center for Molecular Communication and Signaling Research Grant (Fall 2013 - Spring 2014)
+* Wake Forest University Graduate School Summer Research Grant (Summer 2013) 
 
 
-* **Professional Affiliations:** Member, Upsilon Pi Epsilon Honor Society (Spring 2014 - Present); Member, Association for Computing Machinery (Spring 2014 - Present). 
+### Professional Affiliations:
+* Member, Association for Computing Machinery (Spring 2014 - Present)
+* Member, Upsilon Pi Epsilon Honor Society (Spring 2014 - Present) 
 
-
-* 
-**Service:** Member, Alpha Phi Omega, Kappa Theta Chapter (Fall 2009 - Fall 2013). 
-
-
-
----
-
-Would you like me to help you create a specific `_config.yml` file or a custom theme for your GitHub Pages site?
+### Service:
+* Member, Alpha Phi Omega, Kappa Theta Chapter (Fall 2009 - Fall 2013) 
