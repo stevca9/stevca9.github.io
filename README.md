@@ -2,9 +2,9 @@
 
 ## Contact Information
 
-Email: stevca9@wfu.edu
+**Email:** stevca9@wfu.edu
 
-Phone: (301) 514-1617
+**Phone:** (301) 514-1617
 
 ---
 
@@ -70,7 +70,7 @@ Phone: (301) 514-1617
 
 ### Research Assistant
 
-**Wake Forest University, Dept. of Computer Science** | Fall 2012 – Present 
+**Wake Forest University, Dept. of Computer Science**, Fall 2012 – Fall 2014 
 
 **Research Advisor:** Dr. Sam Cho 
 
